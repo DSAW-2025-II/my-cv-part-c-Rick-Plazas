@@ -85,3 +85,12 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+--------------------------------------------------------------------------------------------------
+
+- Nombre: Ricardo Plazas
+- Link de despliegue: https://dsaw-2025-ii.github.io/my-cv-part-c-Rick-Plazas
+- Juego CSS Rana: <img width="1285" height="634" alt="image" src="https://github.com/user-attachments/assets/fd25d541-0001-463b-b149-6cc8c198fe97" />
+- Juego CSS Zanahoria: <img width="1353" height="696" alt="image" src="https://github.com/user-attachments/assets/da3efd35-b8eb-451e-a221-c83a38947035" />
+
+
